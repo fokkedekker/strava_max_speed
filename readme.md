@@ -4,4 +4,5 @@ This script is intended to calculate your overall max speed in strava. It curren
 # Howto
 
 1. Download your strava data
+  1.
 
