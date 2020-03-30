@@ -1,0 +1,1 @@
+* Calculate Strava Max Speed 
